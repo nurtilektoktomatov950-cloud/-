@@ -1,0 +1,9 @@
+{
+  "name": "modbot",
+  "main": "mod.js",
+  "compatibility_date": "2025-01-01",
+  "triggers": { "crons": ["* * * * *"] },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "randomizer", "database_id": "88125b8f-f21b-47bd-9471-f457a0958be6" }
+  ]
+}
