@@ -1,6 +1,6 @@
 {
   "name": "modbot",
-  "main": "mod10.js",
+  "main": "mod11.js",
   "compatibility_date": "2025-01-01",
   "triggers": { "crons": ["* * * * *"] },
   "d1_databases": [
