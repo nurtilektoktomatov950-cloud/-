@@ -1,6 +1,6 @@
 {
   "name": "modbot",
-  "main": "mod3.js",
+  "main": "mod4.js",
   "compatibility_date": "2025-01-01",
   "d1_databases": [
     { "binding": "DB", "database_name": "randomizer", "database_id": "88125b8f-f21b-47bd-9471-f457a0958be6" }
